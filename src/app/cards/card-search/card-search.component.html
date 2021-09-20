@@ -1,0 +1,8 @@
+<mat-form-field style="min-width: 300px;">
+  <mat-label>Kartvizit ara</mat-label>
+  <input
+    matInput
+    placeholder="Başlık, isim veya firma adı"
+    #searchText (keyup)="search(searchText.value)"
+  />
+</mat-form-field>
