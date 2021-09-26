@@ -1,6 +1,6 @@
 # Demo
 
-https://app-kartvizit.netlify.app/cards
+https://app-kartvizit.netlify.app/
 
 # KartvizitApp
 
